@@ -1,11 +1,11 @@
 # Hello, I'm Eliseo
 <a href="https://linkedin.com/in/eliseolarios"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from George Mason University with a profound interest in cybersecurity and a dedication to solving complex problems.
+I am a graduate from George Mason University with a profound interest in cybersecurity and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in Information Technology has deepened my passion for cybersecurity, and I am now focused on transitioning into this field, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has deepened my passion for cybersecurity, and I am now focused on transitioning into this field.
 
 ## Tools
 
